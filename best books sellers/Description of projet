@@ -1,0 +1,18 @@
+
+The project shows the insights about the top best selling books in Amazon within a particular year range. 
+To track down top rated bestsellers and top rated authors we generated a power BI report and dashboard.
+
+The report displays:
+
+1. User Rating over the years
+2. Best seller ratings
+3. Bestseller counts over the years
+4. Ratings by genre
+5. Top 7 Bestsellers
+6. Average reviews over the years
+7. Average price over the years
+8. Average ratings over the years
+9. Top 10 Authors with highest user ratings
+10. Top 10 Authors with highest price bestsellers
+11. Top 10 highest price bestsellers
+12. Top 10 bestsellers with highest user ratings
